@@ -17,6 +17,6 @@ docker run -d -p 88:80 --name myTodo-container myTodo-image:latest
 ```
 
 ### 项目预览:
-![alt 属性文本](https://github.com/Etina9/todo/blob/master/docs/add.jpeg)
-![alt 属性文本](/docs/done.jpeg)
-![alt 属性文本](/docs/clear.jpeg)
+![alt 属性文本](https://i.postimg.cc/9Q2cDpk8/add.jpg)
+![alt 属性文本](https://i.postimg.cc/43NZ53sp/done.jpg)
+![alt 属性文本](https://i.postimg.cc/0yCPDSR8/clear.jpg)
